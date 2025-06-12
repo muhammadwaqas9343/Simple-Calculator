@@ -1,0 +1,16 @@
+{
+  "name": "simple-calculator-muhammadwaqas",
+  "version": "1.0.0",
+  "description": "A simple calculator with typescript, Node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Waqas",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^12.6.3"
+  }
+}
