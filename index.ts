@@ -77,3 +77,5 @@ if (answer.operator === "addition") {
     console.log("Please enter a valid number");
     
 }
+
+console.log("The End");

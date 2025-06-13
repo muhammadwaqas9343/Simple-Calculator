@@ -23,7 +23,7 @@
 //----------------------------------------------------------------------------------------------------------------------------------
 // Command line for run CLI programe
 // npx is used for just run the CLI programes
-// npx simple-calculator-waqas 
+// npx simple-calculator-muhammadwaqas 
 //----------------------------------------------------------------------------------------------------------------------------------
 import inquirer from "inquirer";
 const answer = await inquirer.prompt([
@@ -63,3 +63,4 @@ else if (answer.operator === "exponents") {
 else {
     console.log("Please enter a valid number");
 }
+console.log("The End");
